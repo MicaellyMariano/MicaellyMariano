@@ -21,7 +21,7 @@
     
   <hr />
 
-  ## Algumas Linguagens que tenho estudado até aqui!
+  ## Algumas Tecnologias que tenho estudado até aqui!
   <img width="500px" src="https://skillicons.dev/icons?i=css,html,cs,cpp,kotlin,mysql,php,py" />
 
 
