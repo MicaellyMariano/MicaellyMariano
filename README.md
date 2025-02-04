@@ -22,7 +22,7 @@
   <hr />
 
   ## Algumas Tecnologias que tenho estudado até aqui!
-  <img width="500px" src="https://skillicons.dev/icons?i=css,html,cs,cpp,kotlin,mysql,php,py" />
+  <img width="500px" src="https://skillicons.dev/icons?i=css,html,cs,cpp,mysql,php" />
 
 
   <h2> 🛠️ Ferramentas que uso no dia a dia: </h2>
