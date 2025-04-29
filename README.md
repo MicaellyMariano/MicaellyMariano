@@ -13,7 +13,7 @@
 
 📚 Concluí com sucesso diversos cursos sobre Tecnologia e Gestão Pessoal.
 
-🚀 Atualmente, estou focada nos estudos e principalmente no desenvolvimento FullStack com
+🚀 Atualmente, estou focada nos estudos e principalmente no desenvolvimento FrontEnd com
     HTML, CSS, C#, PHP e mySQL.
     Continuo buscando me aprimorar para me tornar uma programadora de alto
     nível e estou pronta para enfrentar desafios no mundo da programação.
