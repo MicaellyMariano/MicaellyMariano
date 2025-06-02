@@ -14,9 +14,9 @@
 
 📚 Já concluí diversos cursos nas áreas de **Tecnologia** e **Gestão Pessoal**.
 
-🚀 No momento, estou focada no desenvolvimento **FullStack**, utilizando:
+🚀 No momento, estou focada no desenvolvimento **FrontEnd**, utilizando:
 
-- HTML, CSS, JavaScript, PHP, Bootstrap, MySQL
+- HTML, CSS, JavaScript e Bootstrap 💻
 - Buscando me tornar uma programadora de alto nível 💡
 - Pronta para enfrentar novos desafios e sempre aprendendo algo novo!
 
