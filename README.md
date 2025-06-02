@@ -1,33 +1,48 @@
-<h1>Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou a Micaelly!</h1>
-<h2>Seja muito bem-vindo(a)</h2>
+<h1 align="center">
+  Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, eu sou a Micaelly!
+</h1>
 
-<div align="justify">  
-  <h3>Um pouco sobre mim:</h3>
-  
-<pre>
-👨‍🎓 Sou uma estudante de Desenvolvimento de Sistemas na ETEC João Belarmino, apaixonada por tecnologia
-    e programação. 
+<h3 align="center">Seja muito bem-vindo(a) ao meu perfil 👩‍💻</h3>
 
-📚 Concluí com sucesso diversos cursos sobre Tecnologia e Gestão Pessoal.
+---
 
-🚀 Atualmente, estou focada nos estudos e principalmente no desenvolvimento FullStack com
-    HTML, CSS, JavaScript, PHP, Bootstrap e mySQL.
-    Continuo buscando me aprimorar para me tornar uma programadora de alto
-    nível e estou pronta para enfrentar desafios no mundo da programação.
-</pre>
-    
-<hr />
+<div align="justify">
 
-## Algumas Tecnologias que tenho estudado até aqui!
-<img width="600px" src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,mysql,cs" />
+### 🧠 Sobre mim
 
-<h2> 🛠️ Ferramentas que uso no dia a dia: </h2>
-<img width="400px" src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,github,discord" />
-  
-<hr>
+🎓 Estudante de **Desenvolvimento de Sistemas** na ETEC João Belarmino, apaixonada por tecnologia e programação.
 
-# Entre em Contato Comigo!
-<a href="https://www.linkedin.com/in/micaelly-mariano-632767269/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+📚 Já concluí diversos cursos nas áreas de **Tecnologia** e **Gestão Pessoal**.
+
+🚀 No momento, estou focada no desenvolvimento **FullStack**, utilizando:
+
+- HTML, CSS, JavaScript, PHP, Bootstrap, MySQL
+- Buscando me tornar uma programadora de alto nível 💡
+- Pronta para enfrentar novos desafios e sempre aprendendo algo novo!
+
+---
+
+### 💻 Tecnologias que tenho estudado
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,mysql,cs" width="600" />
+
+---
+
+### 🛠️ Ferramentas que uso no dia a dia
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,github,discord" width="500" />
+
+---
+
+### 📬 Entre em contato comigo!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaelly-mariano-632767269/)
+
 </div>
+
+---
+
+<!--
+MicaellyMariano/MicaellyMariano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
